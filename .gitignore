@@ -1,2 +1,3 @@
 #node modules
+# git rm -r --cached node_modules to delete github node modules
 node_modules/
